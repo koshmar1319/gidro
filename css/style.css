@@ -641,9 +641,13 @@ body {
   display: inline;
 }
 
+.products {
+  margin-bottom: 80px;
+}
+
 .products__more {
   text-align: center;
-  margin: 35px 0 80px;
+  margin: 35px 0 0;
 }
 
 .products__more-link {
@@ -653,4 +657,10 @@ body {
   text-transform: uppercase;
   background: #F0F0F4;
   padding: 16px 43px;
+}
+
+/* === BANNER === */
+
+.banner {
+  margin-bottom: 80px;
 }
