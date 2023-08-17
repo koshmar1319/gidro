@@ -301,6 +301,10 @@ body {
   text-align: right;
 }
 
+.aside__btn {
+  display: none;
+}
+
 .price {
   font-family: 'Barlow', sans-serif;
   position: relative;
@@ -1647,4 +1651,8 @@ button.catalog__filter-btnline {
 
 .product-slider .slick-dots .slick-active button {
   background-color: #1c62cd;
+}
+
+.product-card__btn-mobile {
+  display: none;
 }
