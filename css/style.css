@@ -1656,3 +1656,7 @@ button.catalog__filter-btnline {
 .product-card__btn-mobile {
   display: none;
 }
+
+.footer__topdrop {
+  pointer-events: none;
+}
